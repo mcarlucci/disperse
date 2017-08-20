@@ -58,7 +58,7 @@
   },
   "scripts": {
     "start": "truffle compile && truffle migrate && node scripts/start.js",
-    "build": "truffle compile && truffle migrate && node scripts/build.js",
+    "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom"
   },
   "jest": {
