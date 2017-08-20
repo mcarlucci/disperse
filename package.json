@@ -58,7 +58,7 @@
   },
   "scripts": {
     "preinstall": "scripts/preinstall.sh",
-    "start": "truffle migrate && node scripts/start.js",
+    "start": "scripts/testrpc.sh && truffle migrate && node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom"
   },
