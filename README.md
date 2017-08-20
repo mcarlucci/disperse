@@ -2,7 +2,7 @@
 React dApp (decentralized app) using Ethereum's blockchain
 
 ## Setup
-Install truffle, Ethereum's in-memory blockchain, yarn package manager and node packages
+Install [truffle](http://truffleframework.com/), [Ethereum's in-memory blockchain](https://github.com/ethereumjs/testrpc), [yarn](https://github.com/yarnpkg/yarn) package manager and node packages
 ```
 npm install -g truffle 
 npm install -g ethereumjs-testrpc
