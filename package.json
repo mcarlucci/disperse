@@ -57,7 +57,8 @@
     "redux-thunk": "^2.2.0"
   },
   "scripts": {
-    "start": "truffle compile && truffle migrate && node scripts/start.js",
+    "preinstall": "scripts/preinstall.sh",
+    "start": "truffle migrate && node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom"
   },
