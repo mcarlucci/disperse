@@ -3,7 +3,7 @@ React dApp (decentralized app) using Ethereum's blockchain
 
 ## Setup
 ```
-yarn install
+npm install
 ```
 
 ## Run
