@@ -1,0 +1,68 @@
+{
+  "contract_name": "Killable",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "kill",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "owner",
+      "outputs": [
+        {
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "newOwner",
+          "type": "address"
+        }
+      ],
+      "name": "transferOwnership",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    }
+  ],
+  "unlinked_binary": "0x60606040525b60008054600160a060020a03191633600160a060020a03161790555b5b610171806100316000396000f300606060405263ffffffff7c010000000000000000000000000000000000000000000000000000000060003504166341c0e1b581146100535780638da5cb5b14610068578063f2fde38b14610097575b600080fd5b341561005e57600080fd5b6100666100b8565b005b341561007357600080fd5b61007b6100e1565b604051600160a060020a03909116815260200160405180910390f35b34156100a257600080fd5b610066600160a060020a03600435166100f0565b005b60005433600160a060020a03908116911614156100dd57600054600160a060020a0316ff5b5b5b565b600054600160a060020a031681565b60005433600160a060020a039081169116141561013f57600160a060020a0381161561013f576000805473ffffffffffffffffffffffffffffffffffffffff1916600160a060020a0383161790555b5b5b5b505600a165627a7a72305820879b0b352b08c90bd3831254e089e54bd0749a012d6338295a4009df5c581abc0029",
+  "networks": {
+    "1503191017987": {
+      "events": {},
+      "links": {},
+      "address": "0x166c5e91ad4110b978ef5f0c86e02a4c26f14f9f",
+      "updated_at": 1503191413988
+    },
+    "1503194515348": {
+      "events": {},
+      "links": {},
+      "address": "0xf446a4b3cec06b3117070d053c60a30e603c2bb6",
+      "updated_at": 1503194525195
+    },
+    "1503194882181": {
+      "events": {},
+      "links": {},
+      "address": "0xf91cbf8e06c6e67343d8bbb9e86885ba44f04c16",
+      "updated_at": 1503194885445
+    },
+    "1503194979615": {
+      "events": {},
+      "links": {},
+      "address": "0xd880cdf34daf9a05a413c988066df24d30018388",
+      "updated_at": 1503194982768
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1503194982768
+}
