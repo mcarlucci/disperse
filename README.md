@@ -8,7 +8,7 @@ npm install
 
 ## Run
 ```
-yarn start
+npm start
 ```
 
 A new seperate window will open and run the in-memory Ethereum blockchain.
@@ -17,15 +17,16 @@ A new seperate window will open and run the in-memory Ethereum blockchain.
 To test contracts, run:
 ```
 truffle compile
+truffle test
 ```
 
 To unit test, run:
 ```
-yarn test
+npm test
 ```
 
 ## Build
 A production build can be found in the `build_webpack` folder when you run:
 ```
-yarn build
+npm run build
 ```
