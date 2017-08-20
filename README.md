@@ -1,5 +1,5 @@
 # disperse
-React dApp (decentralized app) using Ethereum's blockchain
+React dApp (decentralized app) using Ethereum's blockchain. Built using [React](https://github.com/facebook/react), [React-Redux](https://github.com/reactjs/react-redux), [React-Router](https://github.com/ReactTraining/react-router), [Truffle](http://truffleframework.com/) and [Ethereum in-memory blockchain](https://github.com/ethereumjs/testrpc).
 
 ## Setup
 ```
