@@ -7,15 +7,11 @@ npm install
 ```
 
 ## Run
-In a seperate terminal run Ethereum's in-memory blockchain
-```
-testrpc
-```
-
-In your project folder, run:
 ```
 yarn start
 ```
+
+A new seperate window will open and run the in-memory Ethereum blockchain.
 
 ## Test
 To test contracts, run:
