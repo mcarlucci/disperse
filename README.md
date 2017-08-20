@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-> A new seperate window will open and run the in-memory Ethereum blockchain.
+> A new seperate terminal window will open and run the in-memory Ethereum blockchain.
 
 ## Test
 To test contracts, run:
