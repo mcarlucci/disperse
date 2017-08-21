@@ -4,4 +4,5 @@ if [[ $(netstat -anp tcp | awk '$6 == "LISTEN" && $4 ~ /\.8545$/') ]]
     exit
   else
     ttab -w 'testrpc'
+    sleep 2
 fi
