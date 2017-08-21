@@ -1,5 +1,5 @@
 # <img src="https://s3.postimg.org/qp7po9h8j/Screen_Shot_2017-08-20_at_4.32.37_PM.png" width="375"/>
-React dApp (decentralized app) boilerplate using Ethereum's blockchain. Built using [React](https://github.com/facebook/react), [React-Redux](https://github.com/reactjs/react-redux), [React-Router](https://github.com/ReactTraining/react-router), [Truffle](http://truffleframework.com/) and [Ethereum in-memory blockchain](https://github.com/ethereumjs/testrpc).
+Super simple React dApp (decentralized app) boilerplate using Ethereum's blockchain. Built using [React](https://github.com/facebook/react), [React-Redux](https://github.com/reactjs/react-redux), [React-Router](https://github.com/ReactTraining/react-router), [Truffle](http://truffleframework.com/) and [Ethereum in-memory blockchain](https://github.com/ethereumjs/testrpc).
 
 ### [Demo Video](https://www.youtube.com/watch?v=zdoWHxerXPo&feature=youtu.be&t=6m50s)
 
