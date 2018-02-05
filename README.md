@@ -2,7 +2,7 @@
 React dApp (decentralized app) boilerplate using Ethereum's blockchain. Built using [React](https://github.com/facebook/react), [React-Redux](https://github.com/reactjs/react-redux), [React-Router](https://github.com/ReactTraining/react-router), [Truffle](http://truffleframework.com/) and [Ethereum in-memory blockchain](https://github.com/ethereumjs/testrpc).
 
 > System requirements: 
-> - macOS (cross-platform contributons are welcome)
+> - macOS (cross-platform contributions are welcome)
 
 ### [Demo Video](https://www.youtube.com/watch?v=zdoWHxerXPo&feature=youtu.be&t=6m33s)
 Learn more about [creating and testing Ethereum Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
