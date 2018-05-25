@@ -1,4 +1,4 @@
-# <img src="https://s7.postimg.cc/5egytgp97/disperse-logo-cropped.png" width="375"/>
+# <img src="https://s7.postimg.cc/5egytgp97/disperse-logo-cropped.png" height="300"/>
 React dApp (decentralized app) boilerplate using Ethereum's blockchain. Built using [React](https://github.com/facebook/react), [React-Redux](https://github.com/reactjs/react-redux), [React-Router](https://github.com/ReactTraining/react-router), [Truffle](http://truffleframework.com/) and [Ethereum in-memory blockchain](https://github.com/ethereumjs/testrpc).
 
 > System requirements: 
